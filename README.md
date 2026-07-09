@@ -72,13 +72,4 @@
 
 ---
 
-### 📌 Popular Repositories
-
-| Repository | Description | Language |
-|---|---|---|
-| 🔗 [OOP_CS_2022_036](https://github.com/KRLiyanage/OOP_CS_2022_036) | OOP coursework project | Java |
-| 🔗 [KRLiyanage](https://github.com/KRLiyanage/KRLiyanage) | My profile README | Markdown |
-
----
-
 <p align="center"><i>Thanks for visiting my profile — let's build something great together 🚀</i></p>
