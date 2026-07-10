@@ -42,16 +42,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KRLiyanage&show_icons=true&theme=tokyonight&hide_border=true" alt="KRLiyanage GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=KRLiyanage&theme=tokyonight&hide_border=true" alt="KRLiyanage Streak" width="48%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KRLiyanage&show_icons=true&theme=tokyonight&hide_border=true" alt="KRLiyanage GitHub Stats" width="400"/>
+  <img src="https://streak-stats.demolab.com/?user=KRLiyanage&theme=tokyonight&hide_border=true" alt="KRLiyanage Streak" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRLiyanage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KRLiyanage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KRLiyanage&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KRLiyanage&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="800"/>
 </p>
 
 ---
