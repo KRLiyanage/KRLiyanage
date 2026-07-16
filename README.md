@@ -34,7 +34,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,css,html,java,js,mysql,php,postgres,postman,idea,python,git,github,spring,visualstudio,vscode,flutter,dart&theme=light" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=c,cs,css,html,java,js,mysql,php,postgres,postman,idea,python,git,github,spring,visualstudio,vscode,androidstudio,flutter,dart&theme=light" alt="Languages and Tools" />
 </p>
 
 ---
