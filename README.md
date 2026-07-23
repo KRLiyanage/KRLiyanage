@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KRLiyanage&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="KRLiyanage Trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
