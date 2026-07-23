@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ashutosh00710.github.io/github-readme-activity-graph/graph?username=KRLiyanage&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="800"/>
+  <img src="https://ghchart.rshah.org/KRLiyanage" alt="KRLiyanage's Github Contributions" width="100%"/>
 </p>
 
 ---
