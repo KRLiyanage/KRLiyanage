@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/KRLiyanage" alt="KRLiyanage's Github Contributions" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KRLiyanage&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="KRLiyanage Trophies" />
 </p>
 
 ---
