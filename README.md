@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KRLiyanage&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="800"/>
+  <img src="https://raw.githubusercontent.com/KRLiyanage/KRLiyanage/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
