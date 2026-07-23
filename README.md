@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KRLiyanage/KRLiyanage/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://ashutosh00710.github.io/github-readme-activity-graph/graph?username=KRLiyanage&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="800"/>
 </p>
 
 ---
