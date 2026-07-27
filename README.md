@@ -41,9 +41,11 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KRLiyanage&show_icons=true&theme=tokyonight&hide_border=true" alt="KRLiyanage GitHub Stats" width="400"/>
-  <img src="https://streak-stats.demolab.com/?user=KRLiyanage&theme=tokyonight&hide_border=true" alt="KRLiyanage Streak" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KRLiyanage&theme=tokyonight&hide_border=true" alt="KRLiyanage Streak" width="400"/>
 </p>
 
 <p align="center">
