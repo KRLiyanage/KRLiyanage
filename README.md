@@ -31,10 +31,26 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Technical Skills
 
+#### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,css,html,java,js,mysql,php,postgres,postman,idea,python,git,github,spring,visualstudio,vscode,androidstudio,flutter,dart&theme=light" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java,php,python,dart&theme=light" alt="Programming Languages" />
+</p>
+
+#### 🌐 Web Development & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,spring,flutter&theme=light" alt="Web Development" />
+</p>
+
+#### 💾 Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" alt="Databases" />
+</p>
+
+#### 🔧 Tools & IDEs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,visualstudio,vscode,androidstudio&theme=light" alt="Tools & IDEs" />
 </p>
 
 ---
