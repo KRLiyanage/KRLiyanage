@@ -59,11 +59,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KRLiyanage&show_icons=true&theme=tokyonight&hide_border=true" alt="KRLiyanage GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.graphem.dev/?user=KRLiyanage&theme=tokyonight&hide_border=true" alt="KRLiyanage Streak" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KRLiyanage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KRLiyanage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KRLiyanage&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
 </p>
 
 <p align="center">
