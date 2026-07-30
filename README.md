@@ -58,21 +58,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KRLiyanage&show_icons=true&theme=tokyonight&hide_border=true" alt="KRLiyanage GitHub Stats" width="400"/>
-
-  <img src="https://streak-stats.demolab.com/?user=KRLiyanage&theme=tokyonight&hide_border=true" alt="KRLiyanage Streak" width="400"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KRLiyanage&show_icons=true&theme=tokyonight&hide_border=true" alt="KRLiyanage GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KRLiyanage&theme=tokyonight&hide_border=true" alt="KRLiyanage Streak" height="165"/>
 </p>
 
 <p align="center">
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KRLiyanage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="300"/>
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KRLiyanage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p> 
+</p>
 
 ---
 
