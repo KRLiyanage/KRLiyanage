@@ -62,9 +62,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KRLiyanage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KRLiyanage&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
-</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
