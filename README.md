@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 🎓 Undergraduate at the **University of Kelaniya**, Faculty of Computing and Technology
-- 🌱 Currently learning **Python**
+- 🌱 Currently learning **LLM & Rag**
 - 🤝 Open to collaborating on interesting projects
 - 📫 Reach me at **kaweeshravishanka8@gmail.com**
 - ⚡ Fun fact: Call me **LKR**
